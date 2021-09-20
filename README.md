@@ -1,1 +1,1 @@
-# Credit-Card-Prediction
+# Credit-Card-Fraud-Prediction
